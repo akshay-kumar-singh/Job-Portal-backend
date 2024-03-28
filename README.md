@@ -10,21 +10,21 @@ Make sure you have Node.js and npm installed on your local machine.
 Installation
 Clone the repo
 
-Copy code
+
 git clone https://github.com/your-username/job-seeker-portal-backend.git
 Navigate to the project directory
 
-Copy code
+
 cd job-seeker-portal-backend
 Install dependencies
 
-Copy code
+
 npm install
 Usage
 Set up your MongoDB database and provide the connection URI in .env file.
 Start the server
 
-Copy code
+
 npm start
 Features
 RESTful API for job management.
